@@ -1,8 +1,8 @@
-# ***Transformers, Project Life cycle and Hyper
+# ***Transformers, Project Life cycle and Hyper***
 
 parameters***
 
-- [\*\*\*Transformers, Project Life cycle and Hyper](#transformers-project-life-cycle-and-hyper)
+- [***Transformers, Project Life cycle and Hyper***](#transformers-project-life-cycle-and-hyper)
 - [**Text Generation before Transformers**](#text-generation-before-transformers)
   - [**RNNs**](#rnns)
 - [**Transformers**](#transformers)
